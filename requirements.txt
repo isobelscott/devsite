@@ -1,0 +1,13 @@
+asgiref==3.2.7
+Django==3.0.5
+GDAL==2.4.4
+hackedit==1.0a2
+hackedit-cobol==1.0a2
+numpy==1.18.1
+OpenCobolIDE==4.7.6
+protobuf==3.11.4
+PyQt5==5.14.0
+PyQt5-sip==4.19.21
+pytz==2019.3
+six==1.14.0
+sqlparse==0.3.1
